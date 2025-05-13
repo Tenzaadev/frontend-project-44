@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0",
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "bin": {
+    "code": "bin/brain-even.js"
   }
 }
