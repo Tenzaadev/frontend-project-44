@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 import {
-  greetUser, askQuestion, getAnswer, checkAnswer,
-} from '.';
+  greetUser, getRandomNumber, checkAnswer, askQuestion, getAnswer,
+} from '../src/cli.js';
 
 const playEvenGame = () => {
   const name = greetUser();

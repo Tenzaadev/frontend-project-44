@@ -5,7 +5,14 @@ module.exports = {
     'import/extensions': 'off',
   },
   env: {
-    browser: false,
     node: true,
+    es6: true,
   },
+};
+
+module.exports = {
+  coverageDirectory: 'coverage',
+  collectCoverageFrom: ['src/**/*.js'],
+  coverageReporters: ['lcov', 'text-summary'],
+  testEnvironment: 'node',
 };

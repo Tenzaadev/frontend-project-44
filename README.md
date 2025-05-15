@@ -6,3 +6,7 @@
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=your-username_your-repo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=your-username_your-repo)
 [![Maintainability](https://api.codeclimate.com/v1/badges/your-repo-id/maintainability)](https://codeclimate.com/github/your-username/your-repo/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/your-repo-id/test_coverage)](https://codeclimate.com/github/your-username/your-repo/test_coverage)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=frontend-project-44)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=frontend-project-44&metric=coverage)](https://sonarcloud.io/summary/new_code?id=frontend-project-44)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=frontend-project-44&metric=bugs)](https://sonarcloud.io/summary/new_code?id=frontend-project-44)
